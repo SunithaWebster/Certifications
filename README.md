@@ -10,19 +10,19 @@ Digital Mums
 
 DataCamp.com
   Certificates
-    Cleaning Data in Python: https://drive.proton.me/urls/62TGCXA9GG#QHMDjBpSAPum<\br>
-    Data Manipulation with Pandas: https://drive.proton.me/urls/TRABNY9BQ4#SnxemWujfVic<\br>
-    Intermediate Data Visualization with Seaborn: https://drive.proton.me/urls/H0M8YQX4GM#6DG37A3d8PVi<\br>
-    Intermediate Importing Data in Python: https://drive.proton.me/urls/9WC3FFWSM4#8qanBHkgot1X<\br>
-    Intermediate Python: https://drive.proton.me/urls/43MN9RK76M#6TGjElapdEO2<\br>
-    Introduction to Data Visualisation with Matplotlib: https://drive.proton.me/urls/GZ3M9F0EQ4#PwiRzQbAvLtE<\br>
-    Introduction to Data Visualization with Seaborn: https://drive.proton.me/urls/GRWDRFMVQ4#1IYRCC3dUNOI<\br>
-    Introduction to Importing Data in Python: https://drive.proton.me/urls/4K796VAY20#8fOmjjnPf6hI<\br>
-    Introduction to Python: https://drive.proton.me/urls/3EEWHE4M7R#9pr43CNuwDdL<\br>
-    Joining Data with Pandas: https://drive.proton.me/urls/3YGHD83QMR#qqy2a6uaPdAf<\br>
-    Python Data Science Toolbox Part 1: https://drive.proton.me/urls/J9YQ8MMMAC#qmM2ZNR4Qdly<\br>
-    Python Data Science Toolbox Part 2: https://drive.proton.me/urls/QZXGE8FYC0#8nwTtzooqCr4<\br>
-    Working with Dates and Times in Python: https://drive.proton.me/urls/JTCC8Z0H38#SJ3hRbsVc3h2<\br>
+    Cleaning Data in Python: https://drive.proton.me/urls/62TGCXA9GG#QHMDjBpSAPum</br>
+    Data Manipulation with Pandas: https://drive.proton.me/urls/TRABNY9BQ4#SnxemWujfVic</br>
+    Intermediate Data Visualization with Seaborn: https://drive.proton.me/urls/H0M8YQX4GM#6DG37A3d8PVi</br>
+    Intermediate Importing Data in Python: https://drive.proton.me/urls/9WC3FFWSM4#8qanBHkgot1X</br>
+    Intermediate Python: https://drive.proton.me/urls/43MN9RK76M#6TGjElapdEO2</br>
+    Introduction to Data Visualisation with Matplotlib: https://drive.proton.me/urls/GZ3M9F0EQ4#PwiRzQbAvLtE</br>
+    Introduction to Data Visualization with Seaborn: https://drive.proton.me/urls/GRWDRFMVQ4#1IYRCC3dUNOI</br>
+    Introduction to Importing Data in Python: https://drive.proton.me/urls/4K796VAY20#8fOmjjnPf6hI</br>
+    Introduction to Python: https://drive.proton.me/urls/3EEWHE4M7R#9pr43CNuwDdL</br>
+    Joining Data with Pandas: https://drive.proton.me/urls/3YGHD83QMR#qqy2a6uaPdAf</br>
+    Python Data Science Toolbox Part 1: https://drive.proton.me/urls/J9YQ8MMMAC#qmM2ZNR4Qdly</br>
+    Python Data Science Toolbox Part 2: https://drive.proton.me/urls/QZXGE8FYC0#8nwTtzooqCr4</br>
+    Working with Dates and Times in Python: https://drive.proton.me/urls/JTCC8Z0H38#SJ3hRbsVc3h2</br>
   
   Completed Guided Projects Hosted on DataCamp.com
     A PDF containing links to the above: https://drive.proton.me/urls/2BBXSV54BM#3I0zLWimFrKR
