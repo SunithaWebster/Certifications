@@ -1,5 +1,5 @@
 # Certifications
-An empty repository, consisting simply of a README including links to certificate copies, organised into folders arranged by educational provider.
+An empty repository, consisting simply of this README, including links to certificate copies, organised into folders arranged by educational provider.
 
 Code First Girls (CFG)
 https://drive.proton.me/urls/HS0VF90CNG#YXSLrbzWazTG
