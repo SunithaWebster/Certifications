@@ -2,8 +2,8 @@
 A link repository to access certificates and other evidence of learning, arranged by educational provider.
 
 Code First Girls (CFG)
-  Nanodegree Software: https://drive.proton.me/urls/JHNVDK11R8#0JmjfPxW2biF
-  Introduction to Python Programming: https://drive.proton.me/urls/99J8PNPDFR#EfhQsTKb5Big
+  Nanodegree Software: https://drive.proton.me/urls/JHNVDK11R8#0JmjfPxW2biF</br>
+  Introduction to Python Programming: https://drive.proton.me/urls/99J8PNPDFR#EfhQsTKb5Big</br>
 
 Digital Mums
   Future Digital Skills Bootcamp: https://drive.proton.me/urls/0DVSN4EBHG#P9SFT44IXoOy (Digital Badge)
