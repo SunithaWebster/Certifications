@@ -2,11 +2,11 @@
 A link repository to access certificates and other evidence of learning, arranged by educational provider.
 
 ## Code First Girls (CFG)</br>
-  Nanodegree Software: https://drive.proton.me/urls/JHNVDK11R8#0JmjfPxW2biF</br>
-  Introduction to Python Programming: https://drive.proton.me/urls/99J8PNPDFR#EfhQsTKb5Big</br>
+  Nanodegree Software: https://mega.nz/file/AjAmzCoa#jRSRnj_Iee9QLu6LNagCsryHZnVhunrY1xGQLmGCkMs</br>
+  Introduction to Python Programming: https://mega.nz/file/QuozSART#nvZnLd3OSfEvIhyGtysS39KB2lizNbM1lmUi-wgPtdI</br>
 
 ## Digital Mums</br>
-  Future Digital Skills Bootcamp: https://drive.proton.me/urls/0DVSN4EBHG#P9SFT44IXoOy (Digital Badge)</br>
+  Future Digital Skills Bootcamp: https://mega.nz/file/tq5VxCST#36wmjiP7sqKLM2pZ-JTTTBobTTmjnI06CBuGnlN8Aes (Digital Badge)</br>
 
 ## DataCamp.com</br>
   ### Certificates</br>
@@ -31,22 +31,22 @@ A link repository to access certificates and other evidence of learning, arrange
   PNG of email notification: https://drive.proton.me/urls/89NYQ47A7R#RJveBIISS4UM</br>
 
 ## freeCodeCamp</br>
-  Responsive Web Design Certification: https://drive.proton.me/urls/BZ1CJES030#m4csXhZlfyhe</br>
+  Responsive Web Design Certification: https://mega.nz/file/Vu4DmCwS#QjlDM0JCsrMLCzf2YNiqoZiLWOMyy5vYoa5wL6tr-ps</br>
 
 ## Codecademy</br>
-  Learn the Command Line: https://drive.proton.me/urls/6GBKSZWNPC#Wq0eII1yd4GX</br>
-  Learn C++: https://drive.proton.me/urls/BV87ERYSP0#gpSBJWhkDaWa</br>
+  Learn the Command Line: https://mega.nz/file/1qgTkaBK#rmYQfAHXZ8G28ewTIktoGdeVv5NwU6B67oqYTrcAndM</br>
+  Learn C++: https://mega.nz/file/IrhHWSqb#lYF7Ka0N4Xk4obHMdrA4xpamgqQ9qfJdQqbMyRwY3ek</br>
 
 ## Udemy</br>
-  Learn Python - Build a Virtual Assistant: https://drive.proton.me/urls/YA1AC5A0EM#yd5DeSS4CGkk</br>
+  Learn Python - Build a Virtual Assistant: https://mega.nz/file/0ipViCpA#ze7iXCnAwXESLBL21UED2IJX0VB6XJ661Q8ymH4q4q8</br>
 
 ## Eduonix / Infiniti</br>
-  Learn How to Make a Pure CSS3 Image Slider: https://drive.proton.me/urls/33EFTZSRZW#hGQ1cSJg7Isd</br>
-  Learn HTML5 and CSS3 by Building a Responsive Tableless Calendar: https://drive.proton.me/urls/C7YZKN6DRM#6hEbLn4LfwSh</br>
-  Learn HTML5 Audio Player: https://drive.proton.me/urls/YE2ESKHMV4#PUHuivCRN3x2</br>
-  Learn HTML5 Blog Frontend: https://drive.proton.me/urls/KQFM7CMCG4#dWIrQ1Lx71FY</br>
-  Learn HTML5 Quiz Application: https://drive.proton.me/urls/NPEZVEQ0G0#pBt1Out91Hfy</br>
-  Learn JavaScript by Building a Simple Quiz: https://drive.proton.me/urls/CWV3TKYHS8#CvEfOi3CX5wA</br>
-  Learn to Create an HTML and CSS3 Landing Page Design: https://drive.proton.me/urls/JAY6KS60X4#KkYSiJQgWfQn</br>
-  Learn to Design a CSS3 Timeline: https://drive.proton.me/urls/T2W6Y6F8BM#lJIyWTFvNJK6</br>
-  Learn to Create an HTML5 and CSS3 Transition Dropdown: https://drive.proton.me/urls/NMXH8Z295G#0qWUPcdV14Qy</br>
+  Learn How to Make a Pure CSS3 Image Slider: https://mega.nz/file/wyonzSRA#V_WvRq-v-2UJRNEEEfu7nZhb3kjpyOEj4uhjfUAUVrg</br>
+  Learn HTML5 and CSS3 by Building a Responsive Tableless Calendar: https://mega.nz/file/kjpz0IrT#PEvBAjmlGm9amfHt_VWwhR3mRzJG4LHtwNXF116tihw</br>
+  Learn HTML5 Audio Player: https://mega.nz/file/Qixzna4A#2a8IW95m_iViqCVbpC3nMpe7J038HECjfHlfjpFU414</br>
+  Learn HTML5 Blog Frontend: https://mega.nz/file/1u5RAK4B#lRgBVGtnTwGkS1deIDmEsRyVB15o5gHGP1TERYsc5bQ</br>
+  Learn HTML5 Quiz Application: https://mega.nz/file/UihRgY7Q#vYzLgXB6oQiiQA-D6w8MN2WD3-Th1CUJPHZc4ui12Jg</br>
+  Learn JavaScript by Building a Simple Quiz: https://mega.nz/file/5m5BFAxK#vlrSr316UvZsb4i6JfO5uYwFOl4D3Bvt4lM2xOUS4Dw</br>
+  Learn to Create an HTML and CSS3 Landing Page Design: https://mega.nz/file/grx1yCyR#-OcUDhlpgmK5J-6dx3lvoP2jVXteiA6ttxdIDFdOvlc</br>
+  Learn to Design a CSS3 Timeline: https://mega.nz/file/42gXlI4R#eC88xS0y8u7p8hkgtFVQdbUB62dib24T7jVz0hmWhPY</br>
+  Learn to Create an HTML5 and CSS3 Transition Dropdown: https://mega.nz/file/hnpTVCaL#_qpEahXsgrnbfD6AdmrR4_jF-0C5EtK4L5qX1RZldT0</br>
