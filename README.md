@@ -25,10 +25,10 @@ A link repository to access certificates and other evidence of learning, arrange
   Working with Dates and Times in Python: https://drive.proton.me/urls/JTCC8Z0H38#SJ3hRbsVc3h2</br>
   
   ### Completed Guided Projects Hosted on DataCamp.com</br>
-  A PDF containing links to the above: https://drive.proton.me/urls/2BBXSV54BM#3I0zLWimFrKR</br>
+  A PDF containing links to the above: https://mega.nz/file/g74E1bjB#D3Dx6ry0t_GAD4bkD5FmcIkNFR5q2D2i6U7Sv_bzqyY</br>
   
   ### Evidence of Year's Free Access Win</br>
-  PNG of email notification: https://drive.proton.me/urls/89NYQ47A7R#RJveBIISS4UM</br>
+  PNG of email notification: https://mega.nz/file/M2R2mIoY#ll9ruGCwegByc6thc1RiTpXJua9pguWYmSenxTvUSxc</br>
 
 ## freeCodeCamp</br>
   Responsive Web Design Certification: https://mega.nz/file/Vu4DmCwS#QjlDM0JCsrMLCzf2YNiqoZiLWOMyy5vYoa5wL6tr-ps</br>
