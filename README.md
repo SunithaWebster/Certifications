@@ -10,19 +10,19 @@ A link repository to access certificates and other evidence of learning, arrange
 
 ## DataCamp.com</br>
   ### Certificates</br>
-  Cleaning Data in Python: https://drive.proton.me/urls/62TGCXA9GG#QHMDjBpSAPum</br>
-  Data Manipulation with Pandas: https://drive.proton.me/urls/TRABNY9BQ4#SnxemWujfVic</br>
-  Intermediate Data Visualization with Seaborn: https://drive.proton.me/urls/H0M8YQX4GM#6DG37A3d8PVi</br>
-  Intermediate Importing Data in Python: https://drive.proton.me/urls/9WC3FFWSM4#8qanBHkgot1X</br>
-  Intermediate Python: https://drive.proton.me/urls/43MN9RK76M#6TGjElapdEO2</br>
-  Introduction to Data Visualisation with Matplotlib: https://drive.proton.me/urls/GZ3M9F0EQ4#PwiRzQbAvLtE</br>
-  Introduction to Data Visualization with Seaborn: https://drive.proton.me/urls/GRWDRFMVQ4#1IYRCC3dUNOI</br>
-  Introduction to Importing Data in Python: https://drive.proton.me/urls/4K796VAY20#8fOmjjnPf6hI</br>
-  Introduction to Python: https://drive.proton.me/urls/3EEWHE4M7R#9pr43CNuwDdL</br>
-  Joining Data with Pandas: https://drive.proton.me/urls/3YGHD83QMR#qqy2a6uaPdAf</br>
-  Python Data Science Toolbox Part 1: https://drive.proton.me/urls/J9YQ8MMMAC#qmM2ZNR4Qdly</br>
-  Python Data Science Toolbox Part 2: https://drive.proton.me/urls/QZXGE8FYC0#8nwTtzooqCr4</br>
-  Working with Dates and Times in Python: https://drive.proton.me/urls/JTCC8Z0H38#SJ3hRbsVc3h2</br>
+  Cleaning Data in Python: https://mega.nz/file/NvQl1YBK#Tr6aKcA00Zoa5F17oZQDti9l6dRckLU9BdRFOqejZVM</br>
+  Data Manipulation with Pandas: https://mega.nz/file/JmxG3LZI#JctvKVunQ9awo75h9_wDy6hblu-pQ319GXxzVwacUhQ</br>
+  Intermediate Data Visualization with Seaborn: https://mega.nz/file/hnYwHZJA#4bdtZtco5XO2u7sOL0Q4YbP4KyD8Aq13t4JcuWysukQ</br>
+  Intermediate Importing Data in Python: https://mega.nz/file/QyYHHRqT#Kge9hsG75KzDQzJTSBJ5rcOAV3txrG_zj2gxnfv2lIE</br>
+  Intermediate Python: https://mega.nz/file/krBGXLZI#1K-an2rMJ7556azbuLEt3vFadJ9XYms1CRy3q-Roi1c</br>
+  Introduction to Data Visualisation with Matplotlib: https://mega.nz/file/IrZBEZKa#pTA5W9qwYlBGYmMNTMYT-OXBj_mNsutwK5uUoqI0gbw</br>
+  Introduction to Data Visualization with Seaborn: https://mega.nz/file/RyIEmTIL#NCF_F-RG17tgnxtu98Gvt427uvx3X7262fbD8gjwIwk</br>
+  Introduction to Importing Data in Python: https://mega.nz/file/ZvJ0wAIT#uQqMY9Q5T2D7EdvMzkq7eBrTGsD9l7oNuoSP3QDGDiU</br>
+  Introduction to Python: https://mega.nz/file/B6gAUYSB#rf0Et9JmqwvsibH1Oi72RdqkMhj-xjFcay_WrSJ18YU</br>
+  Joining Data with Pandas: https://mega.nz/file/YrwWTDpB#JGbJGqWuuapKg7dcihYp87f-9uQurbDuECFI0PpCo_0</br>
+  Python Data Science Toolbox Part 1: https://mega.nz/file/53AFVbLJ#1fokzm9DdNgSATUD1oDErM3ofRwwE9QfQR1WxJG1bHg</br>
+  Python Data Science Toolbox Part 2: https://mega.nz/file/YvoRVKCK#uIciMCQDzEpRNv5NoT3iqvJfJVBC5i9rOcawHcdPU5Y</br>
+  Working with Dates and Times in Python: https://mega.nz/file/h2ohQarR#1VGfs_TcQAaAkiR4JRsfD2K9RzbjXh_EIcQma9N3Pus</br>
   
   ### Completed Guided Projects Hosted on DataCamp.com</br>
   A PDF containing links to the above: https://mega.nz/file/g74E1bjB#D3Dx6ry0t_GAD4bkD5FmcIkNFR5q2D2i6U7Sv_bzqyY</br>
