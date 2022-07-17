@@ -4,6 +4,7 @@ A link repository to access certificates and other evidence of learning, arrange
 ## Code First Girls (CFG)</br>
   Nanodegree Software: https://mega.nz/file/AjAmzCoa#jRSRnj_Iee9QLu6LNagCsryHZnVhunrY1xGQLmGCkMs</br>
   Introduction to Python Programming: https://mega.nz/file/QuozSART#nvZnLd3OSfEvIhyGtysS39KB2lizNbM1lmUi-wgPtdI</br>
+  Bug Fixing MOOC Sprint: https://mega.nz/file/BiwglAoA#8Cpd_7kcKXjeG6LJQRSjLqUQDYTQeRV-xqBgMGiJ0cs
 
 ## Digital Mums</br>
   Future Digital Skills Bootcamp: https://mega.nz/file/tq5VxCST#36wmjiP7sqKLM2pZ-JTTTBobTTmjnI06CBuGnlN8Aes (Digital Badge)</br>
